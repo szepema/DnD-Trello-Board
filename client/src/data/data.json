@@ -1,0 +1,59 @@
+{ "data" : [
+    {
+        "id": 1,
+        "icon": "⭕️",
+        "status": "open",
+        "title": "Ticket No.1",
+        "content": "Doing something with that thing",
+        "assign": "S M"
+    }, {
+        "id": 2,
+        "icon": "⭕️",
+        "status": "open",
+        "title": "Ticket No.2",
+        "content": "Finish that thing with something",
+        "assign": "J F"
+    }, {
+        "id": 3,
+        "icon": "⭕️",
+        "status": "open",
+        "title": "Ticket No.3",
+        "content": "Review the thing",
+        "assign": "K L"
+    }, {
+        "id": 4,
+        "icon": "⭕️",
+        "status": "open",
+        "title": "Ticket No.4",
+        "content": "Fix the thing with that other thing",
+        "assign": "F G"
+    }, {
+        "id": 5,
+        "icon": "⭕️",
+        "status": "open",
+        "title": "Ticket No.5",
+        "content": "Fix the thing with that other thing",
+        "assign": "D G"
+    }
+    
+    ],
+    
+     "statuses" : [{
+        "status": "open",
+        "icon": "⭕️",
+        "color": "red"
+    }, {
+        "status": "in progress",
+        "icon": "🔆️",
+        "color": "orange"
+    }, {
+        "status": "in review",
+        "icon": "📝",
+        "color": "yellow"
+    }, {
+        "status": "done",
+        "icon": "✅",
+        "color": "green"
+    }]
+}
+    
